@@ -1,13 +1,12 @@
 
-[README.md](https://github.com/user-attachments/files/22583565/README.md)
 # LLM-Handbook: From Theory to Practice
 
 > A comprehensive guide to understanding and implementing Large Language Models for Python developers
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/username/LLM-Handbook)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Himanshu-jn52/LLM-Handbook)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://python.org)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/username/LLM-Handbook)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/Himanshu-jn52/LLM-Handbook)
 
 ## 🎯 About This Handbook
 
@@ -133,7 +132,7 @@ python --version
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/LLM-Handbook.git
+git clone https://github.com/Himanshu-jn52/LLM-Handbook.git
 cd LLM-Handbook
 
 # Create virtual environment
