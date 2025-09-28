@@ -32,7 +32,7 @@ Welcome to the **LLM-Handbook** - your comprehensive guide to understanding, imp
 ## 📖 Table of Contents
 
 ### **Part I: Foundations**
-- **[Chapter 1: Introduction to Language Models](chapters/01-introduction.md)**
+- **[Chapter 1: Introduction to Language Models](Chapter%2001%20-%20Introduction%20to%20Language%20Models.pdf)**
   - What are Language Models?
   - Evolution: N-grams → RNNs → Transformers → LLMs
   - The Transformer Revolution
